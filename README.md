@@ -1,2 +1,2 @@
-serial_message запускается на Raspberry Pi
-serial_reader запускается на Windows
+1) serial_message запускается на Raspberry Pi
+2) serial_reader запускается на Windows
